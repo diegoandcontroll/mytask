@@ -4,7 +4,7 @@
   The app saves your task in localstorage using cra to initialize the project using react hooks as contextapi useEffect
 
 ### link app
-  [test](https://www.google.com.br/)
+  [mytask](https://www.google.com.br/)
 ### install
   ```
    yarn or npm 
